@@ -108,3 +108,4 @@ public class Ball {
         g.fillOval((int) x, (int) y, diameter, diameter);
     }
 }
+
